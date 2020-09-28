@@ -1,10 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% This code is a demo for the experiments in the paper:
-%%% "Affinity Learning via a Diffusion Process for Subspace Clustering"
-%%% Note that the results might be slightly different from those in paper
-%%% as no parameter tuning is done here.
-%%% By QILIN LI (li.qilin@postgrad.curtin.edu.au)
-%%% Last Update 05/07/2018
+%%% "Affinity Learning via Self-Supervised Diffusion for Spectral Clustering"
+%%% By QILIN LI (qilin.li@curtin.edu.au)
+%%% Last Update 28/09/2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
